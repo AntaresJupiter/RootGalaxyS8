@@ -2628,7 +2628,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1969f07295dd1fa4ebabeba38acc87f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Package: com.hydra.rootgalaxys8
+  Package: com.callisto.rootgalaxys8
   Ip: http://poseidon.servegame.org:8080/svc.asmx/Interact
 --- !u!114 &1679907905
 MonoBehaviour:
@@ -2641,7 +2641,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e713d802cedb254eba046ec4b89e7af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Jupiter_Id: 58e420245ec902921a002130
+  Jupiter_Id: 
 --- !u!114 &1679907906
 MonoBehaviour:
   m_ObjectHideFlags: 0
